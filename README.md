@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM :
 ```
-Name : ALDRIN LIJO J E
-Reg NO : 212222240007
+Name :Berjin Shabeck H
+Reg NO : 212222240018
 ```
 ```PYTHON
 # Include necessary libraries
